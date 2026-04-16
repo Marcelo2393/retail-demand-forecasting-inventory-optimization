@@ -1,75 +1,46 @@
-📊 Sistema de Predicción de Demanda y Optimización de Inventario en Retail
-📌 Descripción del proyecto
+# 📊 Sistema de Predicción de Demanda y Optimización de Inventario en Retail
 
-Este proyecto desarrolla un sistema de predicción de demanda y optimización de inventario para un entorno retail, utilizando técnicas de Machine Learning y análisis de datos.
+---
 
-El objetivo es anticipar la demanda de productos por tienda y mejorar la toma de decisiones de abastecimiento, reduciendo quiebres de stock y sobreinventario.
+## 📌 Descripción del proyecto
 
-🎯 Objetivos
-Predecir la demanda futura de productos en tiendas retail
-Optimizar niveles de inventario
-Reducir pérdidas por exceso o falta de stock
-Mejorar la eficiencia en la cadena de suministro
-🧠 Metodología
+Este proyecto desarrolla un sistema de **predicción de demanda y optimización de inventario** para un entorno retail, utilizando técnicas de **Machine Learning y análisis de datos**.
 
-El proyecto sigue una estructura basada en CRISP-DM:
+El objetivo es anticipar la demanda de productos por tienda, permitiendo mejorar la toma de decisiones en abastecimiento y reducir problemas de quiebres de stock y sobreinventario.
 
-Comprensión del negocio
-Exploración de datos (EDA)
-Preparación de datos
-Modelamiento predictivo
-Evaluación de modelos
-Despliegue (simulado o conceptual)
-📂 Estructura del repositorio
-📁 retail-demand-forecasting-inventory-optimization
+---
 
-* data/                # Datos (no incluidos o muestra)
+## 🎯 Objetivos
 
-* notebooks/           # Análisis exploratorio y modelos
+- Predecir la demanda futura de productos en tiendas retail  
+- Optimizar niveles de inventario  
+- Reducir pérdidas por exceso o falta de stock  
+- Mejorar la eficiencia en la cadena de suministro  
 
-* rc/                 # Código fuente del pipeline
+---
 
-* models/              # Modelos entrenados
+## 🧠 Metodología
 
-* reports/             # Resultados y gráficos
+El proyecto sigue la metodología **CRISP-DM**:
 
-* requirements.txt     # Dependencias
+- Comprensión del negocio  
+- Exploración de datos (EDA)  
+- Preparación de datos  
+- Modelamiento predictivo  
+- Evaluación de modelos  
+- Despliegue (simulado / conceptual)  
 
-* README.md
+---
 
-⚙️ Tecnologías utilizadas
+## 📂 Estructura del repositorio
 
-## ⚙️ Tecnologías utilizadas
-
-- Python 🐍  
-- Pandas / NumPy  
-- Scikit-learn  
-- LightGBM  
-- Matplotlib / Seaborn / Plotly  
-- Jupyter Notebook  
-- Git & GitHub  
-
-## 🤖 Modelos utilizados
-
-- Regresión Lineal (baseline)  
-- Random Forest  
-- Gradient Boosting  
-- LightGBM (modelo principal)  
-
-## 📈 Métricas de evaluación
-
-- MAE (Mean Absolute Error)  
-- RMSE (Root Mean Squared Error)  
-- MAPE (Mean Absolute Percentage Error)  
-
-## 📊 Resultados
-
-- El modelo mejora la predicción de demanda  
-- Permite optimizar inventarios  
-- Reduce quiebres de stock  
-
-El modelo final permite:
-
-Mejorar la precisión en la predicción de demanda
-Identificar patrones de consumo por categoría
-Apoyar la toma de decisiones en reposición de inventario
+```bash
+retail-demand-forecasting-inventory-optimization/
+│
+├── data/              # Datos (no incluidos o versión reducida)
+├── notebooks/         # Análisis exploratorio y modelamiento
+├── src/               # Código fuente del pipeline
+├── models/            # Modelos entrenados
+├── reports/           # Visualizaciones y resultados
+├── requirements.txt   # Dependencias del proyecto
+└── README.md
