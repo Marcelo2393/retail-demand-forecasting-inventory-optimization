@@ -23,20 +23,19 @@ Despliegue (simulado o conceptual)
 📂 Estructura del repositorio
 📁 retail-demand-forecasting-inventory-optimization
 
-│
-├── data/                # Datos (no incluidos o muestra)
+* data/                # Datos (no incluidos o muestra)
 
-├── notebooks/           # Análisis exploratorio y modelos
+* notebooks/           # Análisis exploratorio y modelos
 
-├── src/                 # Código fuente del pipeline
+* rc/                 # Código fuente del pipeline
 
-├── models/              # Modelos entrenados
+* models/              # Modelos entrenados
 
-├── reports/             # Resultados y gráficos
+* reports/             # Resultados y gráficos
 
-├── requirements.txt     # Dependencias
+* requirements.txt     # Dependencias
 
-└── README.md
+* README.md
 
 ⚙️ Tecnologías utilizadas
 Python 🐍
