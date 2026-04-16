@@ -44,3 +44,7 @@ retail-demand-forecasting-inventory-optimization/
 ├── reports/           # Visualizaciones y resultados
 ├── requirements.txt   # Dependencias del proyecto
 └── README.md
+
+---
+
+
