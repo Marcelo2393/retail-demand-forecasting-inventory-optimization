@@ -38,23 +38,35 @@ Despliegue (simulado o conceptual)
 * README.md
 
 ⚙️ Tecnologías utilizadas
-Python 🐍
-Pandas / NumPy
-Scikit-learn
-LightGBM
-Matplotlib / Seaborn / Plotly
-Jupyter Notebook
-Git & GitHub
-🤖 Modelos utilizados
-Regresión Lineal (baseline)
-Random Forest
-Gradient Boosting
-LightGBM (modelo principal)
-📈 Métricas de evaluación
-MAE (Mean Absolute Error)
-RMSE (Root Mean Squared Error)
-MAPE (Mean Absolute Percentage Error)
-📊 Resultados
+
+## ⚙️ Tecnologías utilizadas
+
+- Python 🐍  
+- Pandas / NumPy  
+- Scikit-learn  
+- LightGBM  
+- Matplotlib / Seaborn / Plotly  
+- Jupyter Notebook  
+- Git & GitHub  
+
+## 🤖 Modelos utilizados
+
+- Regresión Lineal (baseline)  
+- Random Forest  
+- Gradient Boosting  
+- LightGBM (modelo principal)  
+
+## 📈 Métricas de evaluación
+
+- MAE (Mean Absolute Error)  
+- RMSE (Root Mean Squared Error)  
+- MAPE (Mean Absolute Percentage Error)  
+
+## 📊 Resultados
+
+- El modelo mejora la predicción de demanda  
+- Permite optimizar inventarios  
+- Reduce quiebres de stock  
 
 El modelo final permite:
 
