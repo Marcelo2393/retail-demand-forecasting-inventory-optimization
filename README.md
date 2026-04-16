@@ -71,6 +71,12 @@ Reducir quiebres de stock y sobreinventario
 
 Este sistema contribuye a una mejor planificación de inventarios, reduciendo costos operativos y mejorando la disponibilidad de productos en tienda, impactando directamente en la rentabilidad del negocio.
 
+🚀 Data
+
+Por temas de peso de database, lo subi a un archivo drive y comparto su link, para su extracción, ahí encontrarán, la data principal como la data total.
+
+https://drive.google.com/drive/folders/1nUYU-HmVzELVl6StXKxL70GLFvJFMGl_?usp=drive_link
+
 👨‍💻 Autor
 
 Marcelo Callao
