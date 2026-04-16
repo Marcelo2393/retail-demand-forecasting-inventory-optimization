@@ -66,6 +66,7 @@ Mejorar la precisión en la predicción de la demanda
 Identificar patrones de consumo por categoría y tienda
 Optimizar la reposición de inventario
 Reducir quiebres de stock y sobreinventario
+
 🚀 Impacto del negocio
 
 Este sistema contribuye a una mejor planificación de inventarios, reduciendo costos operativos y mejorando la disponibilidad de productos en tienda, impactando directamente en la rentabilidad del negocio.
