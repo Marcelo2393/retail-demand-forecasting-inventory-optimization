@@ -31,20 +31,39 @@ El proyecto sigue la metodología **CRISP-DM**:
 - Despliegue (simulado / conceptual)  
 
 ---
+⚙️ Tecnologías utilizadas
+Python 🐍
+Pandas / NumPy
+Scikit-learn
+LightGBM
+Matplotlib / Seaborn / Plotly
+Jupyter Notebook
+Git & GitHub
+🤖 Modelos utilizados
+Regresión Lineal (baseline)
+Random Forest
+Gradient Boosting
+LightGBM (modelo principal)
+📈 Métricas de evaluación
+MAE (Mean Absolute Error)
+RMSE (Root Mean Squared Error)
+MAPE (Mean Absolute Percentage Error)
+📊 Resultados
 
-## 📂 Estructura del repositorio
+El modelo desarrollado permite:
 
-```bash
-retail-demand-forecasting-inventory-optimization/
-│
-├── data/              # Datos (no incluidos o versión reducida)
-├── notebooks/         # Análisis exploratorio y modelamiento
-├── src/               # Código fuente del pipeline
-├── models/            # Modelos entrenados
-├── reports/           # Visualizaciones y resultados
-├── requirements.txt   # Dependencias del proyecto
-└── README.md
+Mejorar la precisión en la predicción de la demanda
+Identificar patrones de consumo por categoría y tienda
+Optimizar la reposición de inventario
+Reducir quiebres de stock y sobreinventario
+🚀 Impacto del negocio
 
----
+Este sistema contribuye a una mejor planificación de inventarios, reduciendo costos operativos y mejorando la disponibilidad de productos en tienda, impactando directamente en la rentabilidad del negocio.
 
+👨‍💻 Autor
 
+Marcelo Callao
+Data Scientist | Machine Learning | Analytics
+
+📬 Contacto
+LinkedIn:  https://www.linkedin.com/in/marcelo-callao/
