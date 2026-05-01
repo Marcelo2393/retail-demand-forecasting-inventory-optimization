@@ -1,8 +1,8 @@
-# 📊 Sistema de Predicción de Demanda y Optimización de Inventario en Retail
+# Sistema de Predicción de Demanda y Optimización de Inventario en Retail
 
 ---
 
-## 📌 Descripción del proyecto
+## Descripción del proyecto
 
 Este proyecto desarrolla un sistema de **predicción de demanda y optimización de inventario** para un entorno retail, utilizando técnicas de **Machine Learning y análisis de datos**.
 
@@ -10,7 +10,7 @@ El objetivo es anticipar la demanda de productos por tienda, permitiendo mejorar
 
 ---
 
-## 🎯 Objetivos
+## Objetivos
 
 - Predecir la demanda futura de productos en tiendas retail  
 - Optimizar niveles de inventario  
@@ -19,7 +19,7 @@ El objetivo es anticipar la demanda de productos por tienda, permitiendo mejorar
 
 ---
 
-## 🧠 Metodología
+## Metodología
 
 El proyecto sigue la metodología **CRISP-DM**:
 
@@ -31,9 +31,9 @@ El proyecto sigue la metodología **CRISP-DM**:
 - Despliegue (simulado / conceptual)  
 
 ---
-⚙️ Tecnologías utilizadas
+Tecnologías utilizadas
 
-- Python 🐍  
+- Python 
 - Pandas / NumPy  
 - Scikit-learn  
 - LightGBM  
@@ -41,20 +41,20 @@ El proyecto sigue la metodología **CRISP-DM**:
 - Jupyter Notebook  
 - Git & GitHub  
 
-## 🤖 Modelos utilizados
+## Modelos utilizados
 
 - Regresión Lineal (baseline)  
 - Random Forest  
 - Gradient Boosting  
 - LightGBM (modelo principal)  
 
-## 📈 Métricas de evaluación
+## Métricas de evaluación
 
 - MAE (Mean Absolute Error)  
 - RMSE (Root Mean Squared Error)  
 - MAPE (Mean Absolute Percentage Error)  
 
-## 📊 Resultados
+## Resultados
 
 - El modelo mejora la predicción de demanda  
 - Permite optimizar inventarios  
@@ -67,17 +67,17 @@ Identificar patrones de consumo por categoría y tienda
 Optimizar la reposición de inventario
 Reducir quiebres de stock y sobreinventario
 
-🚀 Impacto del negocio
+Impacto del negocio
 
 Este sistema contribuye a una mejor planificación de inventarios, reduciendo costos operativos y mejorando la disponibilidad de productos en tienda, impactando directamente en la rentabilidad del negocio.
 
-🚀 Data
+Data
 
 Por temas de peso de database, lo subi a un archivo drive y comparto su link, para su extracción, ahí encontrarán, la data principal como la data total.
 
 https://drive.google.com/drive/folders/1nUYU-HmVzELVl6StXKxL70GLFvJFMGl_?usp=drive_link
 
-👨‍💻 Autor
+Autor
 
 Marcelo Callao
 Data Scientist | Machine Learning | Analytics
